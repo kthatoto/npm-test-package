@@ -1,5 +1,5 @@
 {
-  "name": "kthatoto-npm-test-package",
+  "name": "@kthatoto/npm-test-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
