@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/kthatoto/npm-test-package-sum",
+    "url": "https://github.com/kthatoto/npm-test-package",
     "directory": "sum"
   },
   "author": "kthatoto",
