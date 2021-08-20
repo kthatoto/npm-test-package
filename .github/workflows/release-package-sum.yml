@@ -3,7 +3,7 @@ name: Release Package Sum
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'packages/sum/**'
 
